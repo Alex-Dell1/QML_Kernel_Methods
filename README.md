@@ -3,7 +3,7 @@ An in-depth study work I did over Kernel Methods in Quantum Machine Learning for
 
 The work starts off discussing the similarities between Supervised QML algorithms and Kernel Methods. It then proceeds providing a careful formalization of such similarity. The main reference for the work is the following paper from Maria Schuld [[1]](#1). Slides do not include theorem proofs, as it was deemed more instructive to carefully build them up during exposition. Parts concerning quantum mechanics background are rather superficial due to time constraints.
 
-The following section reports other papers that assisted me in my studies.
+In the following, you can find other papers that were particularly helpful in my studies.
 
 
 ## References
